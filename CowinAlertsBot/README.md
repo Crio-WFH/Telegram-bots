@@ -10,7 +10,7 @@
 ![Screenshot](screenshot.png)
 
 ## Demo Video 🎥
-Youtube demo link - 
+Youtube demo link - https://youtu.be/U8jTV1EEgck
 
 ## Installing 💻
 The bot is already hosted on Heroku and running smoothly. Posts hourly updates on the telegram group regarding all the avaiable vaccination slots and their corresponding details.
