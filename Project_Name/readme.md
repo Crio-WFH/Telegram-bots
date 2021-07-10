@@ -1,19 +1,30 @@
-## [Project name]
+## [TELEGRAM BOT USING PYTHON]
 
 ### Summary 
 
-There are various things you can add in summary.
-- Reason behind this particular idea
-- How it works
-- Languages you have used to make this
-- What are it's applications
-- Etc
+Work From Home has been really stressful owing to the lack of one on one meetups and get togethers. Being at home, our family and pets are the only ones close to us. Pets are really helpful in relieving stress.
 
-### Screenshots of the extension/software's working 
+Our Bot works in a similar way to help you remain stress free. If you don't have any pet (cases where parents do not let us keep one), our bot will help you by providing cute images of dogs, cats, pandas, birb of various breeds and varieties. In addition you can also get random meme templates to laugh your heart out.
+
+Hope this helps to brighten up your mood!
+
+# How it works?
+ you just need to give commands to your bot and boom% images will automatically get loaded
+ 
+ /dog     -to see images of cute dogs
+ /cat     -to see images of cute cats
+ /panda   -to see images of cute pandas
+ /birb    -to see images of cute birb
+ /meme    -to get random meme templates
+
+# Languages used:
+The entire code is written in Python
+
+### Images showing the working of the bot
 - You can attach files(Images) by dragging and dropping, selecting or pasting them.
 
 ### Demo Video Link
 - [DEMO VIDEO](paste your link here)
 
-`Feel free to add additional points to your readme along with the one's above. Also, make sure your folder structure is organized :)`
+
 
