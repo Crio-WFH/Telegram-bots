@@ -31,7 +31,18 @@ Hope this helps to brighten up your mood!
 The entire code is written in Python
 
 ### Images showing the working of the bot
-- You can attach files(Images) by dragging and dropping, selecting or pasting them.
+
+this image shows the output we get on the command line whwn we run the source code.
+
+![Screenshot (402)](https://user-images.githubusercontent.com/60690997/125168225-0349b800-e1c2-11eb-8b29-8e2d5a629e18.png)
+
+Images showing the bot wroking
+
+![Screenshot_2021-07-10-21-03-54-983_org telegram messenger](https://user-images.githubusercontent.com/60690997/125168380-eeb9ef80-e1c2-11eb-9c85-d484bf90cdce.jpg)
+![Screenshot_2021-07-10-21-03-47-575_org telegram messenger](https://user-images.githubusercontent.com/60690997/125168467-58d29480-e1c3-11eb-88b4-9c2260883689.jpg)
+g…]()
+
+
 
 ### Demo Video Link
 - [DEMO VIDEO](paste your link here)
