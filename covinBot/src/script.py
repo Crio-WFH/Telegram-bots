@@ -1,6 +1,6 @@
 import requests
-import telebot
-API_KEY="1860319551:AAEyIIxWRuEbYhN3_pF5zKU1EnMniadP5RU"
+import telebot,os
+API_KEY=os.environ.get('TOKEN')
 bot=telebot.TeleBot(API_KEY)
 from datetime import datetime
 #from flask import request
