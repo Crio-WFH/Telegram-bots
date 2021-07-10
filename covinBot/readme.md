@@ -7,10 +7,8 @@ This bot hepls in finding vaccine slots availability.
 - used aroyaSetu api 
 - Languages:python
 - get info by district
+-used replet for testing script-https://replit.com/@Krishnakumar42/Telegram-bots-1?v=1
 
-
-### Screenshots of the extension/software's working 
-- You can attach files(Images) by dragging and dropping, selecting or pasting them.
 
 ### Demo Video Link
 - [DEMO VIDEO](paste your link here)
