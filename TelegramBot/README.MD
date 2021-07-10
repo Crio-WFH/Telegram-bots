@@ -9,3 +9,6 @@ This chatbot has been created using Python and it can be extended as per the nee
 - Open the terminal.
 - Run ```pip install python-telegram-bot```
 - Run the project.
+
+### Project Images
+<img src = "assets/images/Project_Image_002.jpeg" width= "300">    <img src = "assets/images/Project_Image_003.jpeg" width= "300">    <img src = "assets/images/Project_Image_001.jpeg" width= "300">
