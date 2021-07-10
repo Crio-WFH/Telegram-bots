@@ -10,7 +10,7 @@ today_date=now.strftime("%d-%m-%Y")
 base_url="https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByDistrict"
 API_URL="https://api.telegram.org/bot1860319551:AAEyIIxWRuEbYhN3_pF5zKU1EnMniadP5RU/getUpdates"
 TOKEN="1860319551:AAEyIIxWRuEbYhN3_pF5zKU1EnMniadP5RU"
-district={622: 'Agra', 623: 'Aligarh', 625: 'Ambedkar Nagar', 626: 'Amethi', 627: 'Amroha', 628: 'Auraiya', 646: 'Ayodhya', 629: 'Azamgarh', 630: '>
+district={622: 'Agra', 623: 'Aligarh', 625: 'Ambedkar Nagar', 626: 'Amethi', 627: 'Amroha', 628: 'Auraiya', 646: 'Ayodhya', 629: 'Azamgarh', 630: 'hathrus'}
 
 def availability_data(response):
   response_json=response.json()
