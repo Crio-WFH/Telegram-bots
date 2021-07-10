@@ -30,9 +30,14 @@ Hope this helps to brighten up your mood!
 # Languages used:
 The entire code is written in Python
 
+Required modules:
+- requests
+- python-telegram-bot 
+- re
+
 ### Images showing the working of the bot
 
-this image shows the output we get on the command line whwn we run the source code.
+this image shows the output we get on the command line when we run the source code.
 
 ![Screenshot (402)](https://user-images.githubusercontent.com/60690997/125168225-0349b800-e1c2-11eb-8b29-8e2d5a629e18.png)
 
