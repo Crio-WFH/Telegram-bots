@@ -16,7 +16,7 @@ Enter ```/start```
 This will enable your interaction.
 
 ### Features
-Currently, this is a very simple chat bot that understand a few commands (in any case). The chatbot can be extended as per the needs. The major example is the customer service bots that we have nowadays. 
+This chatbot can answer queries related to CRIO #IBD REMOTE WORKING TOOLS EDITION. The chatbot can be extended as per the needs. 
 - 'hello', 'hi', 'hey' 
 - 'i am good', 'good'
 - 'how are you', 'how are you?'
@@ -39,3 +39,8 @@ This bot converses when the python script is executed. It can reply to previous 
 <img src = "assets/images/ProjectImage (4).jpeg" width= "300">    <img src = "assets/images/ProjectImage (5).jpeg" width= "300">  
 ### Demonstration Link
 [Project Youtube link](https://youtu.be/eCnvboEd6mY)
+This video is the demonstration link of the extendable bot
+
+https://user-images.githubusercontent.com/71253790/125191393-d0ee9800-e25f-11eb-8f00-b44639eee1de.mp4
+This video is the demonstration of support bot.
+
