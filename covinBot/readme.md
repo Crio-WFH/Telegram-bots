@@ -4,12 +4,12 @@
 
 This bot hepls in finding vaccine slots availability.
 - Reason:get the information quickly
-- used aroyaSetu api 
+- used aroyaSetu api-https://apisetu.gov.in/public/marketplace/api/cowin#/Appointment%20Availability%20APIs/calendarByDistrict 
 - Languages:python
 - get info by district
--used replet for testing script-https://replit.com/@Krishnakumar42/Telegram-bots-1?v=1
+- used pythonAnywhere for testing and deployment -https://www.pythonanywhere.com/user/krishna077/
+- bot url-https://t.me/covinInfoBot
 
-
-### Demo Video Link
-- [DEMO VIDEO](paste your link here)
+### Details
+- [BLOG](https://medium.com/@kk293781/get-vaccine-slots-info-in-your-telegram-a0d16507ed91)
 
