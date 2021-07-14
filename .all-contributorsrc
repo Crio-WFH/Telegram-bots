@@ -78,6 +78,18 @@
         "ideas",
         "infra"
       ]
+    },
+    {
+      "login": "kanishkaa24",
+      "name": "Kanishka Aggarwal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71253790?v=4",
+      "profile": "https://kanishkaa24.github.io/Portfolio/",
+      "contributions": [
+        "code",
+        "design",
+        "infra",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
