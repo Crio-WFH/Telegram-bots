@@ -22,14 +22,14 @@ This chatbot can answer queries related to CRIO #IBD REMOTE WORKING TOOLS EDITIO
 - 'how are you', 'how are you?'
 - 'what can you do', 'what can you do?'
 - 'who are you', 'who are you?'
-- 1. What is CRIO IBD Remote Working Tools Edition
-- 2. What are the challenges?
-- 3. Where should I submit my project?
-- 4. What are the themes?
-- 5. How should I submit my project?
-- 6. What is in there for me?
-- 7. What is the deadline?
-- 8. I have more queries.
+-  What is CRIO IBD Remote Working Tools Edition
+-  What are the challenges?
+-  Where should I submit my project?
+-  What are the themes?
+-  How should I submit my project?
+-  What is in there for me?
+-  What is the deadline?
+-  I have more queries.
 
 This bot converses when the python script is executed. It can reply to previous messages as well. 
 
@@ -43,4 +43,10 @@ This video is the demonstration link of the extendable bot
 
 https://user-images.githubusercontent.com/71253790/125191393-d0ee9800-e25f-11eb-8f00-b44639eee1de.mp4
 This video is the demonstration of support bot.
+
+### To generalize the bot
+- Automate the process of searching the event.
+- Scrap the FAQ data from the events. 
+- Update the response sheet.
+- Voila
 
